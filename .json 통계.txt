@@ -1,0 +1,37 @@
+.json
+
+100	timestamp
+456	flow
+	100	flow_ id
+	52	flows_evicted_needs_work
+	26	flows_evicted_pkt_inject
+	52	flows_evicted
+	52	flows_injected
+	52	flows_injected_max
+	26	flows_checked
+	26	flows_notimeout
+	26 	flows_timeout
+	
+100	in_iface
+100	event_type
+100	src_ip
+74	src_port
+74	dest_ip
+100	dest_port
+100	proto
+100	pkt_src
+100	tls ~
+52	stats ~
+57	tx_id
+253	http ~
+
+21	app_proto
+14	fileinfo ~
+266	dns ~
+499	tcp ~
+
+
+
+
+
+
